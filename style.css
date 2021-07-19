@@ -3,48 +3,39 @@
     margin: 5px;
 }
 .cont{
-<<<<<<< HEAD
+
     
     width: 100%;
     height: 100vh;
     background-color: lightcyan;
     align-items: center;
 
-=======
     width: 100%;
     height: 100vh;
     background-color: lightcyan;
->>>>>>> dd06f26dfc05939b93726862df05b086e1642196
+
 }
 .subcont{
     top: 100px;
     left: 180px;
-<<<<<<< HEAD
     
     min-width: 350px;
     align-items: center;
 }
 .subsubcont{
     padding-top: 2em;
-    margin-right: 2em;
-    
-=======
     min-width: 350px;
     align-items: center;
->>>>>>> dd06f26dfc05939b93726862df05b086e1642196
 }
 .hheading{
     font-weight: 800;
     font-size: 50px;
     clear: both;
 }
-<<<<<<< HEAD
-=======
 a{
     text-align: left;
     background-color: whitesmoke;
 }
->>>>>>> dd06f26dfc05939b93726862df05b086e1642196
 .int{
     font-weight: 700;
     text-align: center;
