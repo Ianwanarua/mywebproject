@@ -1,3 +1,7 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 .intro{
     padding: 5em;
     margin: 5px;
@@ -7,8 +11,8 @@ ul{
     flex-direction: row;
     justify-content: space-around;
     border: 2px solid whitesmoke;
-    border-radius: 10px;
-    font-size: 60px;
+    border-radius: 20px;
+    font-size: 50px;
     background-color: whitesmoke;
 }
 ul li{
