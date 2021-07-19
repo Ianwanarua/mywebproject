@@ -4,7 +4,7 @@
 ## Description
 {This a portfolio photography landing page website.}
 ###Design
-https://lh3.googleusercontent.com/X_J9xH8awxG0q6CmeTNMtY_MjcpUF-fbkdgYanDeetORAK5ADv_0VAg6piz2zRKrLSKxIXbLNUNZnMpQ3iD1ha99e350EsqaVdse84hQJxSncR1cr8vtH9_Aqq2NBTzE1sblgGD4Cknkq4P368TrFoNRTV_xivnjBr9DryLkQlnbqXQeGQ4E9RL1hMInSauCQnW0lQabOBYflnfeX6O9YIlrr8EO8149KRiFYNBsRXCuqvJJeB2RqmuUxiF_uGkHVx-fsQGsmTwPbU8zlpgV8uyzAalKNd4L9q7RXQ2jfYJXKLOWxece_Otn3AfgsFg5yzNx-0FpGd7oA7BnWT0h4tAyTP3_VfeAC0nwCTosXhoD_LUd87DyEiInWUdzF_ZmQuRctm90QbDSdR_qbewJ4Kk647ZCIyFBlizo9C-RpbFFOf6uCnVOu0b947gddea1_9ApFmcy5l38xRbKiCXgFIf-nRSJkD_ZE1rdv-Wfp15CZcTp1bE8u-L8PXbrdjWV5Utyd_AHrUWZTZxsL4x5dYrLi4FK_09aL7Bj9O_tYkPWd-ahk9rPr3pJzc-ioyFmNCzj6LjQvGQ98R-b0VEzy2ah3bdrN0b6pCB4gzKQ3dohFxm8XgqvtZD9K3Ud4jvn77-5mTqDve4tP-8dBWZOc1QRBlm9Zp0zYoIc-kQ_9RL71g02Tl9ixvKzmyUMnDcqxpsTFp4QKjl-3Aat9E0vuZRwLg=w712-h949-no?authuser=1
+https://lh3.googleusercontent.com/MlQJ1j2idTFgDT0WXychniI1PCIjiRIuerpv5ljRunj4IU2HgfwuT9q2cD0ZMxq1Wen_Xm_j8RVm2wqlrPgCcgzPONV9DdVcIkKGnz4cv6OKbRnfa0-qD2irTcdozW_BWwmeuyGLBd3QomRh1DWL5jInatG5Jg-H96DC3jjINx3xdZ5fa6WxID6sibosVtyVDTMyo4Qzs16KzUWYLpCQIjAd-x_L6fm3Kx5_yqIjv29wFR2_51Yt9BgPpdniYuyZDA9THQdyAe3-dH79Obvkeuo7z6nFDcs_KIHD4Csp7nATcmeVyNTi0UOu1fLbv57KRY70l0jipWs9p7KCN7iz5RB_GjtG2G_Fkp2Tiqu686Wi4V4tfoHcArc8rky56KFw_uBUj4sIhxkWzFvOLdFziCePkASwcQ7fCyafGl2tsbdFSmi7Ij8Vq_nErRRlMQvHEHOSxpspM-Dok5NN5J2oNkRKYDrK_vGTW-6LOS_CC-RGjTtzMWDR8Y4PcL9XfUsJ4j5drOmUCQcaI0nGMXm1__Icyol36uBqCQ-J5p4ArRrkmuD-KVMWjvkjb_1pdYVYSCSRHRJ5-W4hC2FlTYxqLrDlf8kwu07niGx2gYUhR2KW4bYUnxBK-kKWFHuR5JidqwiKo4GuVht-c5MN2VAUHhbFIIIFBvXX9kr2dmCau9cF2ryt_LJBBZThbP3CUJCW739HdL1grtIImI8S__r9Ls66Qw=w712-h949-no?authuser=
 ## Setup/Installation Requirements
 * this is a website
 * 
@@ -13,7 +13,7 @@ https://lh3.googleusercontent.com/X_J9xH8awxG0q6CmeTNMtY_MjcpUF-fbkdgYanDeetORAK
 * 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{The website has none since its not responsive. }
+{The website is not responsive. }
 ## Technologies Used
 {Html, css.}
 ## Support and contact details
