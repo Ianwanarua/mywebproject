@@ -1,4 +1,4 @@
-# {jay Ian}
+# {Ian Njenga}
 #### {The website is a portfolio}, {07/2021}
 #### By *{Ian Njenga}*
 ## Description
