@@ -7,13 +7,12 @@ ul{
     flex-direction: row;
     justify-content: space-around;
     border: 2px solid whitesmoke;
+    border-radius: 10px;
     font-size: 60px;
     background-color: whitesmoke;
 }
 ul li{
-    display: inline;
-    
-    
+    display: inline; 
 }
 ul li a{
     text-decoration: none;
@@ -29,26 +28,10 @@ ul li a{
     float: center;
 }
 .subcont{
-    top: 100px;
-    
-    min-width: 350px;
-    align-items: center;
-}
-.subsubcont{
     padding-top: 2em;
     min-width: 350px;
     align-items: center;
     float: center;
-
-}
-.hheading{
-    font-weight: 800;
-    font-size: 50px;
-    clear: both;
-}
-a{
-    text-align: left;
-    background-color: whitesmoke;
 }
 .int{
     font-weight: 700;
@@ -57,7 +40,6 @@ a{
     font-size: 50px;
     padding-top: 2em;
     line-height: 60px;
-    clear: both;
     padding-bottom: 2em;
 }
 h2{
@@ -71,8 +53,7 @@ h2{
 .column{
     float: left;
     width: 30%;
-    padding: 10px;
-    
+    padding: 10px;  
 }
 .row{
     margin: 0px;
@@ -89,8 +70,6 @@ margin: 2px;
 background-clip: inherit;
 font-weight: 500;
 font-size: 40px;
-
-
 }
 .about{
     border: 15px;
@@ -103,14 +82,10 @@ max-height: 20%;
 li{
     display: block;
     text-align: center;
-
 }
-
 .list{
-  
   color: black;
   min-height: 10%;
-  
   background-clip: inherit;
   border: 1px outset grey;
   margin: 2px;
@@ -120,5 +95,4 @@ li{
   text-size-adjust: 50%;
   font-weight: 500;
 font-size: 40px;
-  
 }
