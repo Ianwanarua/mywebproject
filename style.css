@@ -32,7 +32,7 @@ ul li a{
     float: center;
 }
 .subcont{
-    padding-top: 2em;
+    padding-top: 1em;
     min-width: 350px;
     align-items: center;
     float: center;
@@ -62,7 +62,7 @@ h2{
 .row{
     margin: 0px;
     display: table;
-    clear: both;
+    background-color: lightcyan;
 }
 .bio{
 text-align: center;
@@ -71,7 +71,6 @@ background-color: lightgray;
 min-height: 60%;
 padding: 5px;
 margin: 2px;
-background-clip: inherit;
 font-weight: 500;
 font-size: 40px;
 }
