@@ -33,10 +33,7 @@ a{
     padding-bottom: 2em;
 }
 .pic{
-    margin-top: 3em;
-    width: 300;
-    margin-right: 8em;
-    height: 550px;
+
 }
 .display{
     display: flex;
