@@ -12,6 +12,7 @@
     top: 100px;
     left: 180px;
     min-width: 350px;
+    align-items: center;
 }
 .hheading{
     font-weight: 800;
